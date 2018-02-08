@@ -1,1 +1,2 @@
- git remote add origin https://github.com/cubeton/firstproject.git
+ git remote add origin https://github.com/jhun1321/firstproject.git
+modified frist branch

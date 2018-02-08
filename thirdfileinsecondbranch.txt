@@ -1,0 +1,2 @@
+ git remote add origin https://github.com/jhun1321/firstproject.git
+second brnach
